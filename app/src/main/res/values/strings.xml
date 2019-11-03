@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="fibonacci_in_class">Fibonacci</string>
+</resources>
